@@ -1,0 +1,1 @@
+# LinkEvent Mobile App codebase
